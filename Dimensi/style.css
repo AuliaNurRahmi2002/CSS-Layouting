@@ -1,0 +1,15 @@
+.satu{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+}
+.dua{
+    width: 50%;
+    background-color: yellow;
+}
+p{
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    overflow: auto;
+}
