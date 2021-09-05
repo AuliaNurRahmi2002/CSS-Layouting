@@ -1,0 +1,7 @@
+div{
+    background-color: aqua;
+    width: 100px;
+    height: auto;
+    padding: 20px;
+    border: 10px dashed salmon;
+}

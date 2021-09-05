@@ -1,0 +1,13 @@
+div{
+    width: 500px;
+    box-sizing: border-box;
+}
+.satu{
+    background-color: salmon;
+    padding: 20px;
+    border: 2px solid greenyellow;
+}
+.dua{
+    background-color: mediumslateblue;
+    padding: 20px;
+}
