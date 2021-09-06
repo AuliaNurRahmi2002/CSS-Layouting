@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+.satu{
+    background-color: aqua;
+}
+.dua{
+    background-color: brown;
+    position: relative;
+    top: 20px;
+    
+}
+.tiga{
+    background-color: tomato;
+}
